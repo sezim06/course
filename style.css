@@ -513,3 +513,19 @@ border: 1px solid #000000;
 .image9 {
   margin-left: 100px;
 }
+.image10 {
+  margin-left: 90px;
+  margin-top: 70px;
+}
+.image10 p {
+  margin-top: -30px;
+margin-left: 40px;
+
+font-family: 'Poppins';
+
+font-size: 20px;
+line-height: 35px;
+
+color: #486958;
+
+}
