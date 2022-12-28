@@ -529,3 +529,36 @@ line-height: 35px;
 color: #486958;
 
 }
+.section-7 {
+  display: flex;
+  padding: 100px 150px 200px 150px;
+}
+
+.section-7 .box-2 {
+  width: 60%;
+  border: 1px solid rgb(180, 180, 180);
+  padding: 30px;
+  margin-left: 50px;
+  color: gray;
+}
+
+.section-7 .icon {
+  text-align: end;
+}
+
+.section-7 .box-1 {
+  width: 40%;
+}
+
+.btn {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px 20px;
+  border: 1px solid #58a9a5;
+  background-color: #58a9a5;
+  color: white;
+}
+.section-7 img {
+  margin-top: 5px;
+}
