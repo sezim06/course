@@ -535,10 +535,12 @@ color: #486958;
 }
 
 .section-7 .box-2 {
-  width: 60%;
+  width: 1000px;
+  height: 300px;
   border: 1px solid rgb(180, 180, 180);
   padding: 30px;
   margin-left: 50px;
+  margin-top: 130px;
   color: gray;
 }
 
