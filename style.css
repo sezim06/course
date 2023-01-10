@@ -111,11 +111,11 @@
 .img1 {
 width: 630px;
 height: 630px;
- margin-left: 800px;
+ margin-left: 750px;
 margin-top: -550px;
 
 background: #CCF0E6;
-border-radius: 160px; 
+border-radius: 200px; 
 }
 .img1 img {
   width: 600px;
@@ -563,4 +563,20 @@ color: #486958;
 }
 .section-7 img {
   margin-top: 5px;
+}
+.section-7 p {
+ 
+ margin-top: 150px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+
+
+  
+  text-align: center;
+  
+  color: #1C2323;
+  
 }
