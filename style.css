@@ -84,6 +84,13 @@
   font-size: 20px;
   margin: 0 30px;
 }
+.topbar nav ul li a:hover {
+  color: #58A9A5;
+  border-bottom: 4px solid  #FEC62D;
+  ;
+  
+
+}
 .topbar .logo .logotipe {
   padding-bottom: 12px;
 }
@@ -106,9 +113,7 @@
   border-radius: 20px 20px 20px 0px;
   color: white;
 }
-.href {
-  color: aqua;
-}
+
 
 .img1 {
 width: 630px;
