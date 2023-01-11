@@ -567,7 +567,7 @@ color: #486958;
 .section-7 p {
  
  margin-top: 150px;
-  
+  margin-left: -50px;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 800;
@@ -580,3 +580,7 @@ color: #486958;
   color: #1C2323;
   
 }
+/* .border {
+  border-radius: 100px;
+  background-color: #000000;
+} */
