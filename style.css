@@ -561,9 +561,7 @@ color: #486958;
 
 .btn {
   border-radius: 20px 20px 20px 0px;
-  /* border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px; */
+  
   padding: 10px 20px;
   border: 1px solid #58a9a5;
   background-color: #58a9a5;
@@ -587,13 +585,4 @@ color: #486958;
   
   color: #1C2323;
   
-}
-.kryg {
-  width: 128px;
-height: 128px;
-left: 1165px;
-top: 1640px;
-
-background: rgba(229, 17, 17, 0.4);
-border-radius: 65px;
 }
