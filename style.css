@@ -584,19 +584,32 @@ color: #486958;
   text-align: center;
   
   color: #1C2323;
-  
+           
 }
 
-.vector img {
-  margin-left: -100px;
-}
-/* .vector {
-  width: 100px;
-  height: 100px;
+ /* .vector img {
+ top: 0;
+left: 0;
+}  */
+ .vector {
+  width: 80px;
+  height: 80px;
   border-radius: 65px;
   background: rgba(255, 255, 255, 0.4);
-  margin-left: -100px;
-}*/
+  position: absolute;
+ margin-top: 100px;
+ margin-left: -103px;
+
+}
+.vectorwhite {
+  position: absolute;
+width: 63px;
+height: 63px;
+margin-left: 7px;
+margin-top: 8px;
+background: #ffffff;
+border-radius: 65px;
+}
 .vector1 {
   width: 70px;
 height: 7sectio5000px;
