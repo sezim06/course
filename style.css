@@ -546,15 +546,7 @@ color: #486958;
   padding: 100px 150px 200px 150px;
 }
 
-.section-7 .box-2 {
-  width: 2000px;
-  height: 300px;
-  border: 1px solid rgb(180, 180, 180);
-  padding: 30px;
-  margin-left: 50px;
-  margin-top: 130px;
-  color: gray;
-}
+
 
 .section-7 .icon {
   text-align: end;
@@ -566,7 +558,8 @@ color: #486958;
 
 .btn {
   border-radius: 20px 20px 20px 0px;
-  
+
+
   padding: 10px 20px;
   border: 1px solid #58a9a5;
   background-color: #58a9a5;
@@ -619,4 +612,16 @@ border-radius: 65px;
   margin-left: -70px;
 }
 
-
+input {
+  width: 600px;
+  height: 35px;
+}
+.section-7 .box-2 {
+  width: 2000px;
+  height: 300px;
+  border: 1px solid rgb(180, 180, 180);
+padding: 50px;
+  color: gray;
+  margin-top: 100px;
+  margin-left: 50px;
+} 
