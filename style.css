@@ -2,6 +2,9 @@
 * {
   box-sizing: border-box;
 }
+body {
+  margin: 0;
+}
 .container {
   padding: 0 70px;
 }
@@ -88,6 +91,7 @@
   color: #58A9A5;
   border-bottom: 4px solid  #FEC62D;
   ;
+  transition: 0.3s;
   
 
 }
@@ -605,18 +609,16 @@ left: 0;
   position: absolute;
 width: 63px;
 height: 63px;
-margin-left: 7px;
-margin-top: 8px;
+top: 9px;
+left: 8px;
 background: #ffffff;
 border-radius: 65px;
 }
-.vector1 {
-  width: 70px;
-height: 7sectio5000px;
-
-
-background: #834444;
-border-radius: 65px;
-} 
+.vectorimg{
+  position: absolute;
+  margin-top: 120px;
+  width: 20px;
+  margin-left: -70px;
+}
 
 
