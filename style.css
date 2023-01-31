@@ -4,6 +4,7 @@
 }
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 .container {
   padding: 0 70px;
@@ -558,7 +559,6 @@ color: #486958;
 
 .btn {
   border-radius: 20px 20px 20px 0px;
-
 
   padding: 10px 20px;
   border: 1px solid #58a9a5;
