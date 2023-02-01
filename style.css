@@ -104,9 +104,14 @@ body {
   background-color: #58a9a5;
   text-decoration: none;
   padding: 10px 30px;
-  font-size: 1  5px;
+  font-size: 15px;
   border-radius: 10px;
   color: white;
+ margin-left: auto;
+}
+.ml {
+  display: flex;
+  justify-content: end;
 }
 
 .btn2 {
