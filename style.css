@@ -507,41 +507,10 @@ footer p {
   color: #486958;
 }
 
-.section-7 {
-  display: flex;
-  padding: 100px 150px 200px 150px;
-}
 
-.section-7 .icon {
-  text-align: end;
-}
 
-.section-7 .box-1 {
-  width: 40%;
-}
 
-.btn {
-  border-radius: 20px 20px 20px 0px;
-  padding: 10px 20px;
-  border: 1px solid #58a9a5;
-  background-color: #58a9a5;
-  color: white;
-}
 
-.section-7 img {
-  margin-top: 5px;
-}
-
-.section-7 p {
-  margin-top: 150px;
-  margin-left: -50px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 800;
-  font-size: 60px;
-  text-align: center;
-  color: #1C2323;
-}
 
 .vector {
   width: 80px;
@@ -570,17 +539,11 @@ footer p {
   margin-left: -70px;
 }
 
-input {
-  width: 600px;
-  height: 35px;
-}
+strong {
+  font-size: 60px;
+  font-family: 'Poppins';
 
-.section-7 .box-2 {
-  width: 2000px;
-  height: 300px;
-  border: 1px solid rgb(180, 180, 180);
-  padding: 30px;
-  color: gray;
-  margin-top: 100px;
-  margin-left: 50px;
+}
+.footer p {
+  font-size:20px;
 }
