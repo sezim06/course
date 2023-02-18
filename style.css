@@ -5,14 +5,11 @@
 }
 
 
-body {
-  margin: 0;
-  overflow-x: hidden;
- 
-}
+
 
 .container {
-  padding: 0 70px;
+  max-width: 1500px;
+  margin: 0 auto;
 }
 
 .row {
@@ -96,6 +93,7 @@ body {
   color: #404242;
   font-size: 20px;
   margin: 0 30px;
+  margin-left: 100px;
 }
 
 .topbar nav ul li a:hover {
@@ -136,17 +134,17 @@ body {
   color: white;
 }
 
-.photo-after-nav {
-  width: 630px;
-  height: 630px;
-  margin-left: 750px;
-  margin-top: -550px;
-  background: #CCF0E6;
-  border-radius: 200px;
+.blue-thing {
+  width: 700px;
+  margin-top: -600px;
+  margin-left: 850px;
 }
 
-.photo-after-nav img {
-  width: 600px;
+.img-on-the-blue-thing {
+  margin-left: 830px;
+  width: 500px;
+  margin-top: -680px;
+
 }
 
 .after-nav h1 {
@@ -510,8 +508,6 @@ footer p {
 
 
 
-
-
 .vector {
   width: 80px;
   height: 80px;
@@ -537,6 +533,6 @@ footer p {
   margin-top: 120px;
   width: 20px;
   margin-left: -70px;
-}
+} 
 
 
