@@ -93,13 +93,15 @@
   color: #404242;
   font-size: 20px;
   margin: 0 30px;
-  margin-left: 100px;
+  margin-left: 150px;
+ 
+
 }
 
 .topbar nav ul li a:hover {
   color: #58A9A5;
   border-bottom: 4px solid #FEC62D;
-  transition: 0.3s;
+  transition: 0.1s;
 
 
 }
@@ -137,11 +139,11 @@
 .blue-thing {
   width: 700px;
   margin-top: -600px;
-  margin-left: 850px;
+  margin-left: 750px;
 }
 
 .img-on-the-blue-thing {
-  margin-left: 830px;
+  margin-left: 730px;
   width: 500px;
   margin-top: -680px;
 
@@ -534,5 +536,11 @@ footer p {
   width: 20px;
   margin-left: -70px;
 } 
-
+.footer-solid-line {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  margin-left: 700px;
+  padding: 60px 60px;
+}
 
