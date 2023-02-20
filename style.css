@@ -94,8 +94,6 @@
   font-size: 20px;
   margin: 0 30px;
   margin-left: 150px;
- 
-
 }
 
 .topbar nav ul li a:hover {
@@ -394,21 +392,21 @@ span {
   color: #1C2323;
 }
 
-.png1 {
+.fonts-on-layout-1 {
   margin-left: 200px;
 }
 
-.png2 {
+.fonts-on-layout-2 {
   margin-left: 450px;
   margin-top: -100px;
 }
 
-.png3 {
+.fonts-on-layout-3 {
   margin-left: 740px;
   margin-top: -40px;
 }
 
-.png4 {
+.fonts-on-layout-4{
   margin-left: 1000px;
   margin-top: -50px;
 }
@@ -426,31 +424,9 @@ span {
   background: #CCF0E6;
 }
 
-footer h1 {
-  margin-top: 200px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 800;
-  font-size: 60px;
-  line-height: 105px;
-  color: #1C2323;
-}
 
-footer p {
-  width: 398px;
-  height: 76px;
-  margin-top: -20px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 25px;
-  line-height: 35px;
-  color: #486958;
-}
 
-.footer2 {
-  margin-top: 3px;
-}
+
 
 .linia {
   width: 800px;
