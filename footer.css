@@ -9,8 +9,8 @@ body {
 /*footer input left*/
 .form {
   width: 600px;
-  height: 350px;
-  padding:60px 50px;
+  height: 300px;
+  padding:100px 100px;
   border: 1px solid black;
   font-family: 'Poppins';
   letter-spacing: 1px;
@@ -24,7 +24,7 @@ body {
   font-family: 'Poppins' ;
   letter-spacing: 1px;
   font-size: 15px;
-  
+  padding-top: 50px;
 
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 
-.form-label {
+/* .form-label {
   position: absolute;
   top: 0;
   z-index: -1;
@@ -50,7 +50,7 @@ body {
   transition: 0.3s;
   margin-bottom: 30px;
   right: 430px;
-}
+} */
 
 
 
@@ -93,11 +93,11 @@ body {
 
 
 /* focus that makes the label active */
-.form-input:focus ~ .form-label {
+/* .form-input:focus ~ .form-label {
   top: -25px;
   font-size: 20px;
-  color: #000000e0;
-}
+  color: #979292e0;
+} */
 
 
 /*html right*/
@@ -118,4 +118,7 @@ body {
   font-family: 'Poppins';
 
   
+}
+.from-title {
+  font-size: 50px;
 }
