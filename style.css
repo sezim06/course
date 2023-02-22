@@ -9,7 +9,7 @@
 
 .container {
   max-width: 1500px;
-  margin: 0 auto;
+  margin: 50px;
 }
 
 .row {
@@ -512,10 +512,3 @@ span {
   width: 20px;
   margin-left: -70px;
 } 
-.footer-solid-line {
-  border: 1px solid black;
-  width: 600px;
-  height: 300px;
-  margin-left: 700px;
-  padding: 60px 60px;
-}
