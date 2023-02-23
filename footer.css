@@ -1,44 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-
 body {
-  display: flex;
-  justify-content: center;
-  align-items: end;
-  
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
+
+
 /*footer input left*/
+
 .form {
-  width: 600px;
-  height: 300px;
-  padding:100px 100px;
-  border: 1px solid black;
-  font-family: 'Poppins';
-  letter-spacing: 1px;
+    width: 600px;
+    height: 300px;
+    padding: 100px 100px;
+    border: 1px solid black;
+    font-family: 'Poppins';
+    letter-spacing: 1px;
 }
-
-
-
 
 .form-input,
 .form-button {
-  font-family: 'Poppins' ;
-  letter-spacing: 1px;
-  font-size: 15px;
-  padding-top: 50px;
-
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding-top: 50px;
 }
 
 .from-title {
-  margin: 0 0 20px 0;
-  font-weight: normal;
-  font-family: 'Poppins';
-  font-size: 60px;
+    margin: 0 0 20px 0;
+    font-weight: normal;
+    font-family: 'Poppins';
+    font-size: 60px;
 }
 
-
 .form-group {
-  position: relative;
-  margin-bottom: 32px;
+    position: relative;
+    margin-bottom: 32px;
 }
 
 
@@ -52,47 +48,42 @@ body {
   right: 430px;
 } */
 
-
-
-
 .form-input {
-  width: 100%;
-  padding: 0 0 10px 0;
-  border: none;
-  border-bottom: 1px solid #e0e0e0;
-  background-color: transparent;
-  outline: none;
-  transition: 0.3s;
+    width: 100%;
+    padding: 0 0 10px 0;
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: transparent;
+    outline: none;
+    transition: 0.3s;
 }
-
 
 .form-input:hover {
-  border-radius: 1px solid #1a73a8;
+    border-radius: 1px solid #1a73a8;
 }
 
-
 .form-button {
-  padding: 10px 20px;
-  border: none;
-  border-radius: 20px 20px 20px 0px;
-  color: white;
-  background-color: #1a73a8;
-  outline: none;
-  cursor: pointer;
-  transition: 0.3s;
-  margin-top: 70px;
-  margin-left: 70%;
-
-
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px 20px 20px 0px;
+    color: white;
+    background-color: #1a73a8;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 70px;
+    margin-left: 70%;
 }
 
 .form-button:focus,
 .form-button:hover {
-  background-color: rgba(0, 113, 240, 0,7);
+    background-color: rgba(0, 113, 240, 0, 7);
 }
 
 
 /* focus that makes the label active */
+
+
 /* .form-input:focus ~ .form-label {
   top: -25px;
   font-size: 20px;
@@ -102,23 +93,21 @@ body {
 
 /*html right*/
 
-
 .footer-h1 {
-  font-size: 60px;
-  font-family: 'Poppins';
-  margin-right:   20px ;
-  margin-bottom: 15%;
-  font-style: normal;
-
+    margin-right: 0px;
+    margin-bottom: 15%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 60px;
 }
 
-.footer-p  {
-  font-size: 20px;
-  font-style: normal;
-  font-family: 'Poppins';
-
-  
+.footer-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 20px;
+    color: #486958;
 }
+
 .from-title {
-  font-size: 25px;
+    font-size: 25px;
 }
