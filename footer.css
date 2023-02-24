@@ -26,12 +26,15 @@ body {
 }
 
 .form-title1,
-.form-title2,
 .form-title3 {
     margin: 0 0 20px 0;
     font-weight: normal;
     font-family: 'Poppins';
     font-size: 20px;
+    color: #486958;
+}
+
+.from-title {
     color: #486958;
 }
 
@@ -55,7 +58,7 @@ body {
 }
 
 .form-button {
-    padding: 10px 20px;
+    padding: 10px 10px;
     border: none;
     border-radius: 20px 20px 20px 0px;
     color: white;
@@ -69,7 +72,8 @@ body {
 
 .form-button:focus,
 .form-button:hover {
-    color: black;
+    background-color: rgb(83, 83, 175);
+    color: rgb(193, 181, 181);
 }
 
 .footer-h1 {
