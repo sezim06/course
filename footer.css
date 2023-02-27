@@ -96,4 +96,6 @@ body {
 
 .img-in-footer {
     width: 120px;
+    line-height: 10px;
+    margin-left: 50px;
 }
