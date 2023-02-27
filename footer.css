@@ -7,14 +7,14 @@ body {
 /*footer input left*/
 
 .form {
-    width: 500px;
+    width: 600px;
     height: 230px;
     padding: 60px 60px;
     border: 1px solid black;
     font-family: 'Poppins';
     letter-spacing: 1px;
     margin-left: 600px;
-    margin-top: 100px;
+    margin-top: -210px;
 }
 
 .form-input,
@@ -77,36 +77,23 @@ body {
 }
 
 .footer-h1 {
-    margin-right: 0px;
-    margin-bottom: 15%;
+    margin-left: 50px;
+    margin-top: 150px;
     font-family: 'Poppins';
     font-style: normal;
     font-size: 60px;
+    color: #1C2323;
 }
 
 .footer-p {
+    margin-left: 50px;
     font-family: 'Poppins';
     font-style: normal;
     font-size: 20px;
     color: #486958;
+    margin-top: -30px;
 }
 
-.from-title {
-    font-size: 25px;
-}
-
-.footer-h1 {
-    font-size: 60px;
-}
-
-.footer-p {
-    font-size: 20px;
-}
-
-.img-in-footer1 {
-    width: 150px;
-}
-
-.img-in-footer2 {
-    width: 150px;
+.img-in-footer {
+    width: 120px;
 }
