@@ -400,7 +400,8 @@ span {
     margin-top: -50px;
 }
 
-.image6 {
+
+/* .image6 {
     margin-top: 100px;
     height: 100px;
 }
@@ -411,7 +412,7 @@ span {
     margin-left: 500px;
     margin-top: -100px;
     background: #CCF0E6;
-}
+} */
 
 .linia {
     width: 800px;
@@ -441,7 +442,8 @@ span {
     margin-left: 60px;
 }
 
-.text_and_numbers {
+
+/* .text_and_numbers {
     display: flex;
     justify-content: space-evenly;
     color: #58A9A5;
@@ -452,15 +454,65 @@ span {
 .image10 {
     margin-left: 90px;
     margin-top: 70px;
-}
+} */
 
-.image10 p {
+
+/* .image10 p {
     margin-top: -30px;
     margin-left: 40px;
     font-family: 'Poppins';
     font-size: 20px;
     line-height: 35px;
     color: #486958;
+} */
+
+.img {
+    max-width: 100%;
+}
+
+.right-h1-text {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-left: 50px;
+    background: #CCF0E6;
+}
+
+.inside-main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h1-number {
+    padding: 20px;
+    padding-left: 43px;
+    color: #58A9A5;
+}
+
+.number {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.inside-div-main {
+    background: #CCF0E6;
+    max-width: 670px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+p {
+    padding-left: 40px;
+    padding-top: 24px;
+    font-size: 25px;
+    min-width: 100%;
+    color: #486958;
+}
+
+h3 {
+    margin-top: 65px;
+    padding-left: 40px;
+    color: #58A9A5;
 }
 
 .vector {
