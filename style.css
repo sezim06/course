@@ -442,32 +442,12 @@ span {
     margin-left: 60px;
 }
 
-
-/* .text_and_numbers {
-    display: flex;
-    justify-content: space-evenly;
-    color: #58A9A5;
-    font-family: 'Poppins';
-    font-size: 20px;
-}
-
-.image10 {
-    margin-left: 90px;
-    margin-top: 70px;
-} */
-
-
-/* .image10 p {
-    margin-top: -30px;
-    margin-left: 40px;
-    font-family: 'Poppins';
-    font-size: 20px;
-    line-height: 35px;
-    color: #486958;
-} */
-
 .img {
     max-width: 100%;
+}
+
+.main {
+    margin-top: 100px;
 }
 
 .right-h1-text {
@@ -476,6 +456,7 @@ span {
     padding: 10px;
     padding-left: 50px;
     background: #CCF0E6;
+    font-family: 'Poppins';
 }
 
 .inside-main {
@@ -496,23 +477,26 @@ span {
 
 .inside-div-main {
     background: #CCF0E6;
-    max-width: 670px;
-    width: 100%;
-    margin: 0 auto;
+    width: 788px;
+    height: 700px;
 }
 
 p {
-    padding-left: 40px;
+    padding-left: 70px;
     padding-top: 24px;
-    font-size: 25px;
-    min-width: 100%;
+    font-size: 20px;
     color: #486958;
+    font-family: 'Poppins';
+    line-height: 30px;
 }
 
 h3 {
     margin-top: 65px;
-    padding-left: 40px;
+    padding-left: 70px;
     color: #58A9A5;
+    font-family: 'Poppins';
+    font-style: italic;
+    letter-spacing: 1px;
 }
 
 .vector {
