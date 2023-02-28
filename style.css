@@ -441,17 +441,12 @@ span {
     margin-left: 60px;
 }
 
-.image7 {
-    margin-left: 100px;
-    margin-top: 50px;
-}
-
-.image8 {
-    margin-left: 100px;
-}
-
-.image9 {
-    margin-left: 100px;
+.text_and_numbers {
+    display: flex;
+    justify-content: space-evenly;
+    color: #58A9A5;
+    font-family: 'Poppins';
+    font-size: 20px;
 }
 
 .image10 {
