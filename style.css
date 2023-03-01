@@ -3,9 +3,14 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+}
+
 .container {
     max-width: 1600px;
-    margin: 50px;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .row {
@@ -110,7 +115,6 @@
     font-size: 15px;
     border-radius: 10px;
     color: white;
-    margin-left: auto;
 }
 
 .btn2 {
