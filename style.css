@@ -385,7 +385,14 @@ span {
     color: #1C2323;
 }
 
-.fonts-on-layout-1 {
+.fonts-on-layout {
+    display: flex;
+    width: 150px;
+    height: 50px;
+}
+
+
+/* .fonts-on-layout-1 {
     margin-left: 200px;
 }
 
@@ -402,7 +409,7 @@ span {
 .fonts-on-layout-4 {
     margin-left: 1000px;
     margin-top: -50px;
-}
+} */
 
 
 /* .image6 {
